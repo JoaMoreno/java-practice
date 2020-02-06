@@ -15,7 +15,7 @@ import java.util.logging.Logger;
 /**
  * @author JoaMoreno
  */
-public class Cliente {
+public class ClienteTCP {
 
     public static void main(String[] args) {
 
